@@ -1,4 +1,6 @@
-# Connect four challenge
+# Connect Four Challenge
+
+_by [Lukas Akermann](https://github.com/lakermann), November 2018_
 
 ![Connect Four](logo.png)
 
@@ -16,4 +18,12 @@
   * [Python](https://github.com/lakermann/connect-four-challenge-client-python)
 * [Tournament Management](https://kickertool.com)
 
-In the folders included in this repo you can find the results and logs of the played games.
+## Results
+
+### November 2018
+
+![Results](2018-11-results.png)
+
+### March 2019
+
+![Results](2019-03-results.png)
