@@ -22,8 +22,8 @@ _by [Lukas Akermann](https://github.com/lakermann), November 2018_
 
 ### November 2018
 
-![Results](2018-11-results.png)
+![Results](./doc/results-2018-11.png)
 
 ### March 2019
 
-![Results](2019-03-results.png)
+![Results](./doc/results-2019-03.png)
